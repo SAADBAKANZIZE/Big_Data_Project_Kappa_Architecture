@@ -1,8 +1,8 @@
 ### Real-Time Sentiment Analysis with Kappa Architecture
-## Project Overview
+### Project Overview
 This project focuses on implementing a Kappa architecture for real-time sentiment analysis using a combination of Apache Kafka, Apache NiFi, Elasticsearch, and Kibana. It falls under the domain of big data analytics and leverages various technologies to achieve real-time insights.
 
-## Kappa Architecture
+### Kappa Architecture
 The Kappa architecture is a paradigm for processing and analyzing real-time data. It simplifies the traditional Lambda architecture by using a unified stream processing system for both batch and real-time data. In our implementation, we employ the Kappa architecture to enable efficient and scalable real-time sentiment analysis.
 ![image](https://github.com/SAADBAKANZIZE/Big_Data_Project_Kappa_Architecture/assets/101594125/0c141a05-f6d0-4639-a319-edef7349b12c)
 
