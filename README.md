@@ -25,7 +25,8 @@ Kibana is utilized as the visualization layer, providing a user-friendly interfa
 Docker is employed to containerize our application components, ensuring consistency and reproducibility across different environments. The use of Docker simplifies the deployment process, making it easier to manage dependencies and scale our solution efficiently.
 ### Data Source
 The project utilizes the YouTube API to retrieve data for sentiment analysis. Leveraging the YouTube API enables us to access real-time comments and reactions, contributing to the continuous flow of data for analysis.
-![Uploading image.png…]()
+![image](https://github.com/SAADBAKANZIZE/Big_Data_Project_Kappa_Architecture/assets/101594125/3833e6d7-d101-4f10-a503-48c09b996fc9)
+
 
 
 ### Contributors
