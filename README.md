@@ -30,7 +30,7 @@ The project utilizes the YouTube API to retrieve data for sentiment analysis. Le
 
 
 ### Contributors
-Bakanzize Saad
-Kadiri Youssef
+# Bakanzize Saad
+# Kadiri Youssef
 
 
